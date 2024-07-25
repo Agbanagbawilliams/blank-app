@@ -1,6 +1,13 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+st.set_page_config(
+    page_title="Multi App",
+    page_icon="😁",
 )
+
+st.title("Main")
+st.sidebar.success("Select a pages above.")
+
+st.write("Welcome to my multi page")
+st.write("This webpage was made using python and streamlit")
+st.success("Check in the sidebar for more apps!")
