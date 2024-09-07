@@ -15,7 +15,6 @@ st.markdown("""
         <a class="nav-link disabled" href="https://newwebpage-nr9d95duhpvvbdx6mqjedc.streamlit.app/">About me <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://newwebpage-nr9d95duhpvvbdx6mqjedc.streamlit.app/Project" target="_blank">Project</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://newwebpage-nr9d95duhpvvbdx6mqjedc.streamlit.app/Project" target="_blank">Chatbot</a>
